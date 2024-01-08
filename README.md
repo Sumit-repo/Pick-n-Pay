@@ -25,22 +25,22 @@ and
 </dependency>`
 3. Configure the necessary environment variables.
 4. Use MySQL Database
-5. Create tables
-  1. salesperson
+- Create tables
+  > salesperson
      `CREATE TABLE users (
     id INT NOT NULL PRIMARY KEY,
     name VARCHAR(20),
     password VARCHAR(50),
     admin_password VARCHAR(50)
 );` 
-  2. Items_sold
+  > Items_sold
      `CREATE TABLE purchases (
     name VARCHAR(500),
     quantity VARCHAR(255),
     total_price DOUBLE,
     Time DATETIME
 );`
-  3. Items
+  > Items
      `CREATE TABLE products (
     id INT NOT NULL AUTO_INCREMENT,
     Name VARCHAR(50) NOT NULL,
