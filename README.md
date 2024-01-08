@@ -1,5 +1,5 @@
 # Pick-n-Pay
-Select-n-Checkout is a secure and user-friendly shopping application that allows users to browse through a supermart's items, select products to purchase, and seamlessly complete the checkout process. The application prioritizes user verification for a secure shopping experience and generates PDF invoices for successful transactions.
+Pick-n-Pay is a secure and user-friendly shopping application that allows users to browse through a supermart's items, select products to purchase, and seamlessly complete the checkout process. The application prioritizes user verification for a secure shopping experience and generates PDF invoices for successful transactions.
 
 ## Features
 
